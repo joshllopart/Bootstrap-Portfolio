@@ -1,0 +1,27 @@
+
+/* a {
+
+    color: hotpink;
+} */
+
+.page-header {
+
+    background-color:white;
+
+}
+body {
+    background-color: grey;
+}
+
+/* .nav-pills, .nav-link.active {
+background-color:rgb(90, 158, 153);
+} */
+
+img {
+ float: left;
+    height:250px;
+    width: 250px;
+}
+
+
+
