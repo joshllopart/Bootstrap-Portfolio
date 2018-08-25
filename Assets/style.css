@@ -10,7 +10,7 @@
 
 }
 body {
-    background-color: grey;
+    background-color: lightgrey;
 }
 
 /* .nav-pills, .nav-link.active {
@@ -18,13 +18,99 @@ background-color:rgb(90, 158, 153);
 } */
 
 img {
+    margin-right:25px;
  float: left;
-    height:250px;
+    height:220px;
     width: 250px;
 }
 .white {
   margin-top: 25px;
     background-color: white;
+}
+
+/* .container-pic1 {
+    height:300px;
+    width: 250px
+}
+.container-pic1 img {
+
+height:300px;
+width: 250px;
+}
+.container-pic1 p {
+
+    top:70%;
+    background-color: teal;
+} */
+
+.name1 {
+
+    font-size:24px;
+    background-color: rgb(65, 160, 155);
+    color: white;
+    padding-left:45px;
+    padding-top:10px;
+    padding-bottom:15px;
+
+}
+
+.name2 {
+    font-weight: bold;
+    margin-top: 2%;
+    font-family: 'Times New Roman', Times, serif;
+    color: teal;
+    font-size: 40px;
+}
+
+/* .nav-link {
+
+    margin-left:400%;
+    
+} */
+
+#joshua {
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    background-color: rgb(65, 160, 155);
+    padding: 1%;
+    margin: none;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #3b3b3b;
+}
+.footertxt {
+    margin-left: 50%;
+    color: white;
+}
+
+.album {
+    
+    margin-top: 10%;
+}
+
+#img2 , #img4 {
+
+float: left;
+}
+
+#submit {
+    margin-top:300%;
+    margin-left:20%;
+    margin-bottom:30%;
+    color: white;
+    background-color:rgb(65, 160, 155);
+}
+
+#container1 {
+
+    margin-top:-6%;
 }
 
 
